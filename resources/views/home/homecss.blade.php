@@ -6,10 +6,6 @@
 <!-- so feel free to do whatever shit u want -->
 <!-- if ur confused what is this for, its basically storing  ur styles and scripts -->
 
-
-
-
-
 <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">

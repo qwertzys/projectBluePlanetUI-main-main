@@ -92,7 +92,7 @@
                 <img class="img_design" src="/formImage/{{$form->image ?? 'defaultForm.png'}}" alt="Form Image">
 
                 <h3 class="title_design">{{$form->name}}</h3> <!-- Display form name -->
-                <p class="p_design">{{$form->description}}</p> <!-- Display form description -->
+                <p class="p_design">{{  }}</p> <!-- Display form description -->
                 <p class="p_design"><b>Created By:</b> {{$form->creator}}</p> <!-- Display creator -->
 
                 <!-- Display status with color coding -->
