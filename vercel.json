@@ -15,6 +15,12 @@
         "src": "/(.*)",
         "dest": "api/index.php"
       }
+    ],
+    "rewrites": [
+      { 
+        "source": "/(.*)", 
+        "destination": "/" 
+      }
     ]
   }
   
